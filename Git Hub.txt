@@ -5,7 +5,9 @@
 4. git add .
 5. git commit -m "Primer commit"
 6. Vincula tu repositorio local con el remoto ejecutando el siguiente comando en la terminal:
-   git remote add origin https://github.com/DavidHospinal/Proyect-MOOCS.git (cambiar y quitar   por la url de tu git hub)
-8. git push -u origin main
+   git remote add origin https://github.com/AlarconIlbert/PF_GRUPO09.git (cambiar y quitar   por la url de tu git hub)
+8.git branch -m master main
+
+9. git push -u origin main
 
 
