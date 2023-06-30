@@ -1,0 +1,11 @@
+
+1. Se crea un repositorio Manualmente en git hub.
+2. Abre la terminal en tu sistema operativo y navega hasta el directorio raíz de tu proyecto local. Asegúrate de tener Git instalado en tu sistema.
+3. git init
+4. git add .
+5. git commit -m "Primer commit"
+6. Vincula tu repositorio local con el remoto ejecutando el siguiente comando en la terminal:
+   git remote add origin https://github.com/DavidHospinal/Proyect-MOOCS.git (cambiar y quitar   por la url de tu git hub)
+8. git push -u origin main
+
+
