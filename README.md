@@ -1,4 +1,4 @@
-# "NYC Taxis & Carbon Emission"
+  # <h1 align="center"> Plataforma de Análisis Interactivo y Modelo de Predicción de Emisiones de Carbono en Taxis de NYC: Información Accesible para Decisiones Sostenibles y Basadas en Datos</h1>
  HENRY BOOTCAMP | Proyecto Final
 
  ## 1. Descripcion del proyecto
