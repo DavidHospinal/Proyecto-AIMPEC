@@ -13,10 +13,10 @@
  - **Sprint02**: Integración de datos(HU002),Análisis exploratorio de datos(HU003).
  - **Sprint03**: Modelo de predicción(HU004),Desarrollo de Dashboard(HU005),Validación de Dashboard(HU006),Despliegue en la nube(HU007).
 
- ## <h2 align='left'>  2.1 Artefactos de Scrum</h2>
+ ## <h4 align='left'>  2.1 Artefactos de Scrum</h4>
 En Scrum, utilizaremos diferentes artefactos para facilitar la planificación, seguimiento y comunicación del proyecto. A continuación, detallamos qué representan cada uno de los artefactos:
  - **Lienzo Lean (Canvas):**
-   El lienzo Canvas, también conocido como Business Model Canvas, es una herramienta utilizada en la fase de planificación inicial del proyecto. Que nos  Permitió visualizar y definir de manera concisa los aspectos clave del modelo de negocio, como los segmentos de clientes, propuesta de valor, canales de distribución, fuentes de ingresos, etc.[Link Aquí para más detalle](https://miro.com/welcomeonboard/Z3hMeUV1em1MdjRiSkF2aVd2ZVdHMHVNdzhMQXUzR2l1czM2VThJTEF1OURVdmsya29LanFxelZXaVNtcVFjdHwzMDc0NDU3MzU5MTY3OTkyOTUwfDI=?share_link_id=234733872676)
+   El lienzo Canvas, también conocido como Business Model Canvas, es una herramienta utilizada en la fase de planificación inicial del proyecto. Que nos  Permitió visualizar y definir de manera concisa los aspectos clave del modelo de negocio, como los segmentos de clientes, propuesta de valor, canales de distribución, fuentes de ingresos, etc. [Link Lienzo Canvas](https://miro.com/welcomeonboard/Z3hMeUV1em1MdjRiSkF2aVd2ZVdHMHVNdzhMQXUzR2l1czM2VThJTEF1OURVdmsya29LanFxelZXaVNtcVFjdHwzMDc0NDU3MzU5MTY3OTkyOTUwfDI=?share_link_id=234733872676)
  - **Tablero Kanban (Kanban Board):**
  - 
  - **Cronograma Gantt (Gantt Chart))**
