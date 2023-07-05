@@ -13,7 +13,7 @@
  - **Etapa 4**: Modelo ML.
 
 La gestión del proyecto se desarrolla en:
-Actividades Task: Cronograma Gant:
+Actividades [Task](https://github.com/AlarconIlbert/PF_GRUPO09/blob/master/Sprint01/Board%20Planning.xlsx "Task") : Cronograma Gant:
 
  ## 2. Objetivo general del proyecto
   Es de optimizar los servicios de taxis en NYC, identificando patrones de demanda y oportunidades de mejora. Se desarrollará un modelo de pronóstico con una precisión del 98% para estimar las emisiones de carbono, impulsando decisiones más sostenibles y eficientes.
