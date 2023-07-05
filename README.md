@@ -9,7 +9,7 @@
  El proyecto se ejecuta bajo metodología ágil Scrum y se desarrolla en cuatro etapas.
  - **Etapa 1**: Recopilación de los datos
  - **Etapa 2**: Creación de base de datos
- -  **Etapa 3**: Análisis Económico - KPIs
+ -  **Etapa 3**: Indicadores de exito - KPIs
  - **Etapa 4**: Modelo ML.
 
 La gestión del proyecto se desarrolla en:
