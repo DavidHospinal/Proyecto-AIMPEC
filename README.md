@@ -19,7 +19,7 @@ En Scrum, utilizaremos diferentes artefactos para facilitar la planificación, s
    El lienzo Canvas, también conocido como Business Model Canvas, es una herramienta utilizada en la fase de planificación inicial del proyecto. Que nos  Permitió visualizar y definir de manera concisa los aspectos clave del modelo de negocio, como los segmentos de clientes, propuesta de valor, canales de distribución, fuentes de ingresos, etc. [Link Lienzo Canvas](https://miro.com/welcomeonboard/Z3hMeUV1em1MdjRiSkF2aVd2ZVdHMHVNdzhMQXUzR2l1czM2VThJTEF1OURVdmsya29LanFxelZXaVNtcVFjdHwzMDc0NDU3MzU5MTY3OTkyOTUwfDI=?share_link_id=234733872676)
  - **Tablero Kanban (Kanban Board):**
    El tablero Kanban es una herramienta visual utilizada para el seguimiento y gestión de las tareas y el flujo de trabajo en nuestro proyecto.Se usó la ClickUp para representar las diferentes etapas del proceso de desarrollo y las tareas  a lo largo del tablero a medida que avanzan en cada sprint. [Link Tablero Kanban](https://sharing.clickup.com/9003183105/b/h/6-900302462589-2/2f84773b6c7934d)
- - **Cronograma Gantt (Gantt Chart):)**
+ - **Cronograma Gantt (Gantt Chart):**
 El cronograma Gantt es una representación gráfica de nuestro  plan de proyecto que muestra las tareas, su duración, secuencia y dependencias en forma de un gráfico de barras. Muestra visualmente la planificación temporal del proyecto y permite gestionar las fechas de inicio y finalización de las tareas por sprint. [Link Gantt Chart](https://sharing.clickup.com/9003183105/g/h/8ca3b01-402/44904377e385669)
 
 
