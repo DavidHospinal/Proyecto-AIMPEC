@@ -25,10 +25,15 @@ El cronograma Gantt es una representación gráfica de nuestro  plan de proyecto
 
  ## 3. Objetivo general del proyecto
   Es de optimizar los servicios de taxis en NYC, identificando patrones de demanda y oportunidades de mejora. Se desarrollará un modelo de pronóstico con una precisión del 98% para estimar las emisiones de carbono, impulsando decisiones más sostenibles y eficientes.
+  ## <h3 align='left'>  3.1 Objetivos especificos.</h3>
+  -	**OE-01:** Definir el alcance del proyecto y establecer la infraestructura necesaria, utilizando metodologías ágiles. Colaborar en la organización y distribución de tareas, asignando roles específicos y creando el repositorio de código, fuentes de datos y documentación.
+  -	**OE-02:** Implementar pipelines de extracción, transformación y carga (ETL) de datos hacia estructuras de almacenamiento, como Data Warehouse, Data Lake o Data Lakehouse. Considerar la carga incremental de datos y utilizar herramientas de big data y/o servicios en la nube para optimizar el proceso.
+  - **OE-03:** Desarrollar un dashboard interactivo y un modelo de Machine Learning utilizando los datos procesados. Incluir los KPIs relevantes para el análisis realizado y preparar un storytelling efectivo para presentar los resultados. Elaborar reportes y dashboards, definir y calcular los KPIs, y poner en producción el modelo de Machine Learning.
+
 
 ## 4. Desarrollo de la solucion
-En este punto, se obtiene la estrategia general del negocio con el fin de establecer las necesidades, los usuarios y los beneficios del producto al negocio.
-
+La solución permitirá visualizar de manera intuitiva y en tiempo real diversos indicadores claves. Además, se desarrollará un modelo de predicción basado en técnicas de machine learning, que utilizará datos históricos y variables relevantes para estimar las emisiones de carbono generadas por los taxis y se utilizarán tecnologías como Hugging Face para el desarrollo del modelo de predicción y Power BI para la creación del dashboard interactivo.
+ Con esta solución, el cliente podrá obtener información en tiempo real, identificar patrones y tendencias, y tomar decisiones informadas y sostenibles para mejorar la eficiencia y calidad del servicio de taxis.
 ## 5. ETL/EDA
 
 ## 6. Indicadores de exito (KPIs)
