@@ -33,8 +33,28 @@ El cronograma Gantt es una representación gráfica de nuestro  plan de proyecto
 
 ## 4. Desarrollo de la solucion
 La solución permitirá visualizar de manera intuitiva y en tiempo real diversos indicadores claves. Además, se desarrollará un modelo de predicción basado en técnicas de machine learning, que utilizará datos históricos y variables relevantes para estimar las emisiones de carbono generadas por los taxis y se utilizarán tecnologías como Hugging Face para el desarrollo del modelo de predicción y Power BI para la creación del dashboard interactivo.
- Con esta solución, el cliente podrá obtener información en tiempo real, identificar patrones y tendencias, y tomar decisiones informadas y sostenibles para mejorar la eficiencia y calidad del servicio de taxis.
+ Con esta solución, el cliente podrá obtener información en tiempo real, identificar patrones y tendencias, y tomar decisiones informadas y sostenibles para mejorar la eficiencia y calidad del servicio de taxis. 
+ <p align=center><img src= Sprint03/Imagen4.jpg><p>
+   
 ## 5. ETL/EDA
+  ## <h3 align='left'>  5.1 ETL (Extracción, Transformación y Carga de datos):</h3>
+  - **Databricks:** Plataforma que proporciona un entorno de trabajo colaborativo para realizar tareas de ETL y análisis de datos utilizando herramientas como PySpark.
+  - **Jupyter Notebook:** Entorno interactivo de programación que permite escribir y ejecutar código en Python para realizar tareas de extracción y transformación de datos.
+  - **Beautiful Soup:** Biblioteca de Python utilizada para el scraping web, permitiendo extraer datos de páginas HTML o XML.
+  ## <h3 align='left'>  5.2 EDA (Analisis Exploratorio de los Datos):</h3>
+  - **Identificación de insights:** Este proceso consta de analizar relaciones y patrones realizando un análisis exploratorio más profundo para identificar relaciones y patrones interesantes entre variables, 
+Identificando valores atípicos para buscar excepciones que puedan proporcionar información relevante o insights únicos, realizando análisis comparativo en diferentes grupos o segmentos para identificar valores significativos y obtener insights adicionales, como por ejemplo la investigación de features como CO2, contaminación sonora, combustión y CO2.
+
+Gráfico de barras sobre la cantidad de viajes por año:
+<p align=center><img src= Sprint03/Imagen5.jpg><p>
+
+- **Segmentación y agrupación:** Examinar las características y comportamientos de cada segmento para comprender mejor las diferencias y similitudes entre ellos.
+ <p align=center><img src= Sprint03/Imagen7.jpg><p>
+  
+ - **Análisis estadístico:** Los valores estadísticos se identificaron para las variables numéricas validando la media, mediana y moda.
+<p align=center><img src= Sprint03/Imagen6.jpg><p>
+
+Los aspectos más importantes de este proceso se pueden consultar en: [ETL](https://github.com/AlarconIlbert/PF_GRUPO09/tree/master/Sprint02%20/ETL) y el [EDA](https://github.com/AlarconIlbert/PF_GRUPO09/tree/master/Sprint02%20/EDA "EDA").
 
 ## 6. Indicadores de exito (KPIs)
 - Reducción de la emisión de contaminantes.
@@ -42,5 +62,7 @@ La solución permitirá visualizar de manera intuitiva y en tiempo real diversos
 - Mejora de la eficiencia de los conductores
 - Aumento de los ingresos
 
+## 6. Conclusiones
+El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensión integral de los patrones de uso de taxis, el impacto de las emisiones y las oportunidades de mejora. Los hallazgos destacaron el potencial para reducir la contaminación, aumentar los viajes compartidos, mejorar la eficiencia del conductor y aumentar los ingresos. Con estos conocimientos, la empresa de servicios de transporte de pasajeros puede tomar decisiones informadas, incorporando potencialmente vehículos eléctricos a su flota y contribuyendo a un ecosistema de transporte más ecológico y sostenible en la ciudad de Nueva York.
   
  
