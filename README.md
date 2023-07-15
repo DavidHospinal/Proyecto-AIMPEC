@@ -65,4 +65,5 @@ Los aspectos más importantes de este proceso se pueden consultar en: [ETL](http
 ## 6. Conclusiones
 El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensión integral de los patrones de uso de taxis, el impacto de las emisiones y las oportunidades de mejora. Los hallazgos destacaron el potencial para reducir la contaminación, aumentar los viajes compartidos, mejorar la eficiencia del conductor y aumentar los ingresos. Con estos conocimientos, la empresa de servicios de transporte de pasajeros puede tomar decisiones informadas, incorporando potencialmente vehículos eléctricos a su flota y contribuyendo a un ecosistema de transporte más ecológico y sostenible en la ciudad de Nueva York.
   
- 
+ ## 7. Documentacion
+ El presente documento proporciona una documentación completa del proyecto "NYC Taxis & Carbon Emission". Este documento servirá como guía para la empresa de servicios de transporte de pasajeros. [Documentacion](https://github.com/AlarconIlbert/PF_GRUPO09/blob/master/Sprint03/Documentacion.pdf)
