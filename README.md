@@ -71,7 +71,7 @@ El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensi�
 
  ### Team
 
-<a href="https://www.linkedin.com/in/oscardavidhospinal"><img alt="David Hospinal " title="Connect with David" src="https://img.shields.io/badge/Luciano Larrea-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **PROJECT MANAGER & ARQUITECTO CLOUD**
+<a href="https://www.linkedin.com/in/oscardavidhospinal"><img alt="David Hospinal " title="Connect with David" src="https://img.shields.io/badge/David Hospinal-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **PROJECT MANAGER & ARQUITECTO CLOUD**
 
 <a href="https://www.linkedin.com/in/franco-jonas-myburg-6095b8255/"><img alt="Franco" title="Connect with Franco" src="https://img.shields.io/badge/Franco Myburg-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ENGINEER**
 
