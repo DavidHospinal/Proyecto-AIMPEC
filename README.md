@@ -34,7 +34,8 @@ El cronograma Gantt es una representación gráfica de nuestro  plan de proyecto
 ## 4. Desarrollo de la solucion
 La solución permitirá visualizar de manera intuitiva y en tiempo real diversos indicadores claves. Además, se desarrollará un modelo de predicción basado en técnicas de machine learning, que utilizará datos históricos y variables relevantes para estimar las emisiones de carbono generadas por los taxis y se utilizarán tecnologías como Hugging Face para el desarrollo del modelo de predicción y Power BI para la creación del dashboard interactivo.
  Con esta solución, el cliente podrá obtener información en tiempo real, identificar patrones y tendencias, y tomar decisiones informadas y sostenibles para mejorar la eficiencia y calidad del servicio de taxis. 
- <p align=center><img src= Sprint03/Imagen4.jpg><p>
+![image](https://github.com/AlarconIlbert/PF_GRUPO09/assets/73408508/cf88fc4f-e2a7-458b-a973-89cc02cff62d)
+
    
 ## 5. ETL/EDA
   ## <h3 align='left'>  5.1 ETL (Extracción, Transformación y Carga de datos):</h3>
