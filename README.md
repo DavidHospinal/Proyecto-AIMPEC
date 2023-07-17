@@ -68,3 +68,17 @@ El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensi�
   
  ## 7. Documentacion
  El presente documento proporciona una documentación completa del proyecto "NYC Taxis & Carbon Emission". Este documento servirá como guía para la empresa de servicios de transporte de pasajeros. [Documentacion](https://github.com/AlarconIlbert/PF_GRUPO09/blob/master/Sprint03/Documentacion.pdf)
+
+ ### Team
+
+<a href="https://www.linkedin.com/in/oscardavidhospinal"><img alt="David Hospinal " title="Connect with David" src="https://img.shields.io/badge/Luciano Larrea-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **PROJECT MANAGER & ARQUITECTO CLOUD**
+
+<a href="https://www.linkedin.com/in/franco-jonas-myburg-6095b8255/"><img alt="Franco" title="Connect with Franco" src="https://img.shields.io/badge/Franco Myburg-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ENGINEER**
+
+<a href="https://www.linkedin.com/in/ivannagvdc/"><img alt="Ivanna" title="Connect with Ivanna" src="https://img.shields.io/badge/Ivanna Villa-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ANALYST**
+
+<a href="https://www.linkedin.com/in/jospinoponce/"><img alt="Jaime" title="Connect with Jaime" src="https://img.shields.io/badge/Jaime Ospino-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ENGINEER**
+
+
+
+<a href="https://www.linkedin.com/in/royquillca/"><img alt="Roy" title="Connect with Roy" src="https://img.shields.io/badge/Roy Quillca-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ENGINEER**
