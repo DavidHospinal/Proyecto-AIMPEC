@@ -81,6 +81,20 @@ El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensi�
 
 <a href="https://www.linkedin.com/in/juliana-caceres-260388241/"><img alt="Juliana" title="Connect with Juliana" src="https://img.shields.io/badge/Juliana Cáceres-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **DATA ANALYST**
 
+ 
+# Citación
+Por favor si usas la base de datos o el código, realizar la citación respectiva a los  autores. 
+```
+  Title = {AIMPEC},
+  Authors = {David Hospinal , Leandro Jofré, Ilbert Alarcón,Pedro Oria,Juliana Cáceres},
+  Year = {2023}
+  University={HENRY}
+}
+```
+# Contacto 
+Para mas información por favor contactarse a:
+
+oscardavid.hospinal@uc.cl(David Hospinal).
 
 
 
