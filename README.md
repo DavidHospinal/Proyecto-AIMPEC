@@ -71,7 +71,8 @@ El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensi�
 
  ### Team Scrum
 
- ![image](https://github.com/AlarconIlbert/Proyecto-AIMPEC/assets/73408508/0387361e-9cb8-4e96-9048-5c69bec8fbfd)
+![image](https://github.com/AlarconIlbert/Proyecto-AIMPEC/assets/73408508/a1df2028-97bc-4ff7-9d13-bf2be67cfa2b)
+
 
 
 <a href="https://www.linkedin.com/in/oscardavidhospinal"><img alt="David Hospinal " title="Connect with David" src="https://img.shields.io/badge/David Hospinal-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **PROJECT MANAGER & CLOUD ARCHITECT**
