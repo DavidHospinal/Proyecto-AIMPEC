@@ -69,7 +69,10 @@ El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensi�
  ## 7. Documentacion
  El presente documento proporciona una documentación completa del proyecto "NYC Taxis & Carbon Emission". Este documento servirá como guía para la empresa de servicios de transporte de pasajeros. [Documentacion](https://github.com/AlarconIlbert/PF_GRUPO09/blob/master/Sprint03/Documentacion.pdf)
 
- ### Team
+ ### Team Scrum
+
+ ![image](https://github.com/AlarconIlbert/Proyecto-AIMPEC/assets/73408508/0387361e-9cb8-4e96-9048-5c69bec8fbfd)
+
 
 <a href="https://www.linkedin.com/in/oscardavidhospinal"><img alt="David Hospinal " title="Connect with David" src="https://img.shields.io/badge/David Hospinal-0077B5?style=flat&logo=Linkedin&logoColor=white"></a> **PROJECT MANAGER & CLOUD ARCHITECT**
 
