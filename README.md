@@ -1,5 +1,6 @@
   # <h1 align="center"> Plataforma de Análisis Interactivo y Modelo de Predicción de Emisiones de Carbono en Taxis de NYC: Información Accesible para Decisiones Sostenibles y Basadas en Datos</h1>
  HENRY BOOTCAMP | Proyecto Final
+![kpi](https://github.com/AlarconIlbert/Proyecto-AIMPEC/assets/73408508/dcc69142-9d84-4663-86cf-406607d572ca)
 
  ## <h2 align='left'> 1. Descripcion del Proyecto </h2>
  El proyecto "NYC Taxis & Carbon Emission" se centra en analizar datos relacionados con el sector de taxis en la ciudad de Nueva York, específicamente en cuanto a su impacto en la contaminación del aire y el ruido. El objetivo principal es comprender los patrones de uso de los taxis, las emisiones que generan y cómo esto afecta la calidad del aire y la contaminación acústica en la ciudad.
