@@ -67,6 +67,9 @@ Los aspectos más importantes de este proceso se pueden consultar en: [ETL](http
 - Mejora de la eficiencia de los conductores
 - Aumento de los ingresos
 
+  ![image](https://github.com/DavidHospinal/Proyecto-AIMPEC/assets/73408508/dd05d99c-c3e1-4ff1-9eb0-d44a13d57164)
+
+
 ## 6. Conclusiones
 El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensión integral de los patrones de uso de taxis, el impacto de las emisiones y las oportunidades de mejora. Los hallazgos destacaron el potencial para reducir la contaminación, aumentar los viajes compartidos, mejorar la eficiencia del conductor y aumentar los ingresos. Con estos conocimientos, la empresa de servicios de transporte de pasajeros puede tomar decisiones informadas, incorporando potencialmente vehículos eléctricos a su flota y contribuyendo a un ecosistema de transporte más ecológico y sostenible en la ciudad de Nueva York.[Click  Aquí para visualizar nuestro MVP: TAXI GREENTRENDZ](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjllYmYxZGEtZjJiZC00YjJiLWEzODktNWVkNDAyN2ViZjZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   
