@@ -36,7 +36,8 @@ El cronograma Gantt es una representación gráfica de nuestro  plan de proyecto
 
 
 ## 4. Desarrollo de la solucion
-La solución permitirá visualizar de manera intuitiva y en tiempo real diversos indicadores claves. Además, se desarrollará un modelo de predicción basado en técnicas de machine learning, que utilizará datos históricos y variables relevantes para estimar las emisiones de carbono generadas por los taxis y se utilizarán tecnologías como Hugging Face para el desarrollo del modelo de predicción y Power BI para la creación del dashboard interactivo.
+La solución permitirá visualizar de manera intuitiva y en tiempo real diversos indicadores claves. Además, se desarrollará un modelo de predicción basado en técnicas de machine learning, que utilizará datos históricos y variables relevantes para estimar las emisiones de carbono generadas por los taxis y se utilizarán tecnologías como Hugging Face para el desarrollo del modelo de predicción y Power BI para la creación del dashboard interactivo.[Click  Aquí para visualizar nuestro MVP: TAXI GREENTRENDZ](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjllYmYxZGEtZjJiZC00YjJiLWEzODktNWVkNDAyN2ViZjZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
  Con esta solución, el cliente podrá obtener información en tiempo real, identificar patrones y tendencias, y tomar decisiones informadas y sostenibles para mejorar la eficiencia y calidad del servicio de taxis. 
 ![image](https://github.com/AlarconIlbert/PF_GRUPO09/assets/73408508/cf88fc4f-e2a7-458b-a973-89cc02cff62d)
 
@@ -71,7 +72,7 @@ Los aspectos más importantes de este proceso se pueden consultar en: [ETL](http
 
 
 ## 6. Conclusiones
-El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensión integral de los patrones de uso de taxis, el impacto de las emisiones y las oportunidades de mejora. Los hallazgos destacaron el potencial para reducir la contaminación, aumentar los viajes compartidos, mejorar la eficiencia del conductor y aumentar los ingresos. Con estos conocimientos, la empresa de servicios de transporte de pasajeros puede tomar decisiones informadas, incorporando potencialmente vehículos eléctricos a su flota y contribuyendo a un ecosistema de transporte más ecológico y sostenible en la ciudad de Nueva York.[Click  Aquí para visualizar nuestro MVP: TAXI GREENTRENDZ](https://app.fabric.microsoft.com/view?r=eyJrIjoiMjllYmYxZGEtZjJiZC00YjJiLWEzODktNWVkNDAyN2ViZjZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+El proyecto "NYC Taxis & Carbon Emission" proporcionó con éxito una comprensión integral de los patrones de uso de taxis, el impacto de las emisiones y las oportunidades de mejora. Los hallazgos destacaron el potencial para reducir la contaminación, aumentar los viajes compartidos, mejorar la eficiencia del conductor y aumentar los ingresos. Con estos conocimientos, la empresa de servicios de transporte de pasajeros puede tomar decisiones informadas, incorporando potencialmente vehículos eléctricos a su flota y contribuyendo a un ecosistema de transporte más ecológico y sostenible en la ciudad de Nueva York.[Click  Aquí para visualizar nuestra Demo Final: TAXI GREENTRENDZ](https://www.youtube.com/watch?v=SowMG1iFZjg)
   
  ## 7. Documentacion
  El presente trabajo proporciona información completa del proyecto "NYC Taxis & Carbon Emission". Este documento servirá como guía para la empresa de servicios de transporte de pasajeros. [Click Aquí para ver la Documentacion con Metodologías Ágiles](https://www.canva.com/design/DAFpO0NgijU/MKXwhSCVm8g6_gNb7tYyFg/view?utm_content=DAFpO0NgijU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
